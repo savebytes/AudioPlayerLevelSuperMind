@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "audio_title": "Demo 1",
+    "audio_url": "https://savebytes.github.io/test_utils/musics/Jennifer%20Warnes%20-%20Bird%20on%20a%20Wire%20lossless.wav",
+    "artist": "The weeknd",
+    "duration": "02:55",
+    "song_poster": "https://savebytes.github.io/test_utils/images/gojo.jpeg"
+  },
+  {
+    "id": "2",
+    "audio_title": "Demo 2",
+    "audio_url": "https://savebytes.github.io/test_utils/musics/Eagles%20-%20Hotel%20California%20lossless.wav",
+    "artist": "The weeknd",
+    "duration": "05:55",
+    "song_poster": "https://savebytes.github.io/test_utils/images/kakashi.jpeg"
+  },
+  {
+    "id": "3",
+    "audio_title": "Demo 3",
+    "audio_url": "https://savebytes.github.io/test_utils/musics/Wintersun%20-%20Sons%20of%20Winter%20and%20Stars%20lossless.wav",
+    "artist": "The weeknd",
+    "duration": "04:25",
+    "song_poster": "https://savebytes.github.io/test_utils/images/sasuke_rinegan.jpeg"
+  },
+  {
+    "id": "3",
+    "audio_title": "Demo 3",
+    "audio_url": "https://savebytes.github.io/test_utils/musics/Wintersun%20-%20Sons%20of%20Winter%20and%20Stars%20lossless.wav",
+    "artist": "The weeknd",
+    "duration": "04:25",
+    "song_poster": ""
+  },
+  {
+    "id": "3",
+    "audio_title": "Demo 3",
+    "audio_url": "https://savebytes.github.io/test_utils/musics/Wintersun%20-%20Sons%20of%20Winter%20and%20Stars%20lossless.wav",
+    "artist": "The weeknd",
+    "duration": "04:25",
+    "song_poster": ""
+  }
+]
